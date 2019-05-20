@@ -1,0 +1,27 @@
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\bin\Debug\Product Management System.exe
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\bin\Debug\Product Management System.pdb
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\bin\Debug\Product Management System.xml
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmChangePassword.resources
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmLogin.resources
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmLoginDetails.resources
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmMain.resources
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmRawMaterialCategory.resources
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmRegistration.resources
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.Resources.resources
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product Management System.vbproj.GenerateResource.Cache
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product Management System.exe
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product Management System.xml
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product Management System.pdb
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmAbout.resources
+c:\users\raj\documents\visual studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmSplash.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmRawMaterialsRecord.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\bin\Debug\Product Management System.exe.config
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product Management System.vbprojResolveAssemblyReference.cache
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmShaftReport.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmStampingReport.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmCommutatorReport.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmFanReport.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmProduct.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmProductRecord.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmProductRecord1.resources
+C:\Users\raj\Documents\Visual Studio 2010\Projects\Product Management System\Product Management System\obj\x86\Debug\Product_Management_System.frmProductReport.resources
